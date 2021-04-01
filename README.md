@@ -15,3 +15,4 @@ npm run dev
 ```
 <!-- Images -->
 <img alt="Webpage Image" src="https://github.com/Akumar111/React-file-upload/tree/main/node_modules/images/React-file-upload-image.jpeg" width="250" height="250">
+![Webpage Screenshot](node_modules/images/React-file-upload-image.jpeg)
