@@ -14,4 +14,4 @@ npm install
 npm run dev
 ```
 <!-- Images -->
-![Image of Webpage](https://github.com/Akumar111/React-file-upload/tree/main/node_modules/images/React-file-upload-image.jpeg?raw=true)
+<img src="https://github.com/Akumar111/React-file-upload/tree/main/node_modules/images/React-file-upload-image.jpeg" width ="250">
